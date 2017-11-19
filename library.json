@@ -17,16 +17,12 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/thijse/Arduino-CmdMessenger.git"
+    "url": "https://github.com/sensimilla/Arduino-CmdMessenger.git"
   },
   "dependencies": 
   [
     {
       "name": "PID",
-      "frameworks": "arduino"
-    },
-    {
-      "name": "Adafruit MAX31855",
       "frameworks": "arduino"
     }
   ],
