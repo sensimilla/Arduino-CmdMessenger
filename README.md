@@ -12,6 +12,8 @@ Arduino Build status: [![Build Status](https://api.travis-ci.org/thijse/Arduino-
 
 ## Introduction
 
+Fork to fix platformio dependancy issue
+
 CmdMessenger is a messaging library for the Arduino Platform (and .NET/Mono platform). It supports multiple transport layers: serial port over USB, Bluetooth, TCP/IP (under development) 
 
 The message format is:
